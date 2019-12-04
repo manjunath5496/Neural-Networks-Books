@@ -25,7 +25,8 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(13).pdf" style="text-decoration:none;">Learn Keras for Deep Neural Networks: A Fast-Track Approach to Modern Deep Learning with Python</a></b></li>                         
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(14).pdf" style="text-decoration:none;">Neural Networks &minus; A Visual Introduction For Beginners </a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(15).pdf" style="text-decoration:none;">Neural Network Toolbox User's Guide</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(15).pdf" style="text-decoration:none;">Neural Network Toolbox User's Guide</a></b></li>
+        <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(16).pdf" style="text-decoration:none;">Artificial Neural Networks: A Practical Course</a></b></li>  
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(17).pdf" style="text-decoration:none;">Neural Networks and Statistical Learning</a></b></li>  
 
@@ -42,7 +43,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(24).pdf" style="text-decoration:none;">The Application of Neural Networks in the Earth System Sciences</a></b></li>  
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(25).pdf" style="text-decoration:none;">Artificial Intelligence for Humans, Volume 3: Neural Networks and Deep Learning</a></b></li> 
 
 
 
